@@ -2,6 +2,14 @@
 
 My name is Josselin. I am a French ITC engineering student.
 
+## 📫 Contact
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselinonduty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josselin-dulongcourty/)
+[![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact_remove-this-part-if-you-are-not-a-bot@josselinonduty.fr)
+[![Website](https://img.shields.io/badge/Website-D92638?style=for-the-badge&logo=about.me&logoColor=white)](https://josselinonduty.fr)
+[![Resume](https://img.shields.io/badge/Resume-B398E5?style=for-the-badge&logo=&logoColor=white)](https://josselinonduty.fr/resume/)
+
 ## 🔎 Overview
 
 <div style="display: flex; gap: 8px; flex-direction: row; width: 100%; flex-wrap: wrap;">
@@ -48,10 +56,3 @@ My name is Josselin. I am a French ITC engineering student.
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-## 📫 Contact
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselinonduty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josselin-dulongcourty/)
-[![Proton Mail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact_remove-this-part-if-you-are-not-a-bot@josselinonduty.fr)
-[![Website](https://img.shields.io/badge/Website-D92638?style=for-the-badge&logo=about.me&logoColor=white)](https://josselinonduty.fr)
