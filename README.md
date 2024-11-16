@@ -13,9 +13,9 @@ My name is Josselin. I am a French ITC engineering student.
 ## 🔎 Overview
 
 <div style="display: flex; gap: 8px; flex-direction: row; width: 100%; flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=josselinonduty&theme=noctis_minimus" alt="gh-stats" style="height: 160px;" />
+<img src="https://github-readme-stats.josselinonduty.fr/api?username=josselinonduty&theme=noctis_minimus" alt="gh-stats" style="height: 160px;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josselinonduty&theme=noctis_minimus&layout=compact" alt="gh-languages" style="height: 160px;" />
+<img src="https://github-readme-stats.josselinonduty.fr/api/top-langs/?username=josselinonduty&theme=noctis_minimus&layout=compact" alt="gh-languages" style="height: 160px;" />
 </div>
 
 ## 📚 Skills
@@ -38,13 +38,13 @@ My name is Josselin. I am a French ITC engineering student.
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![vitest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 **Can use**
 
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -64,6 +64,6 @@ My name is Josselin. I am a French ITC engineering student.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
